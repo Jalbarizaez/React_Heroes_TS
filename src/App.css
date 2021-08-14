@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.App-color {
+  background-color: rgb(20, 1, 48);
+}
+.HomeScreen-icon{
+  background-color: rgb(101, 16, 230);
+
+}
